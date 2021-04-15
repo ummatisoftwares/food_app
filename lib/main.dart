@@ -9,7 +9,6 @@ void main() {
   runApp(MyApp());
 }
 
-
 // E commerce App
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
@@ -26,6 +25,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
 
 //  Food App
 // class MyApp extends StatelessWidget {
